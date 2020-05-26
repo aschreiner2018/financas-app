@@ -38,10 +38,9 @@ react-native run-android
 
 ### screenshots
 <img src="screenshot1.png" width="50%" height="50%">
-![Screenshot](screenshot1.png)
-![Screenshot](screenshot2.png)
-![Screenshot](screenshot3.png)
-![Screenshot](screenshot4.png)
-![Screenshot](screenshot5.png)
-![Screenshot](screenshot6.png)
-![Screenshot](screenshot7.png)
+<img src="screenshot2.png" width="50%" height="50%">
+<img src="screenshot3.png" width="50%" height="50%">
+<img src="screenshot4.png" width="50%" height="50%">
+<img src="screenshot5.png" width="50%" height="50%">
+<img src="screenshot6.png" width="50%" height="50%">
+<img src="screenshot7.png" width="50%" height="50%">
