@@ -1,4 +1,4 @@
-Projeto criado em React Native para controle financeiro, utilizando o conceito de Context Api.
+Projeto criado em React Native para controle financeiro, utilizando Context Api.
 
 ### Bibliotecas utilizadas
 
