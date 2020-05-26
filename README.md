@@ -37,7 +37,7 @@ Projeto criado em React Native para controle financeiro, utilizando o conceito d
 react-native run-android
 
 ### screenshots
-<img src="screenshot1.png" width="100" height="100">
+<img src="screenshot1.png" width="50%" height="50%">
 ![Screenshot](screenshot1.png)
 ![Screenshot](screenshot2.png)
 ![Screenshot](screenshot3.png)
